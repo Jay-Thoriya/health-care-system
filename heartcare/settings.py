@@ -28,6 +28,7 @@ SECRET_KEY = '2y3*%r@d)w5+9@*)i3tdar5q)=^rl^o@zii7)3m4#l^xmr&cqt'
 DEBUG = True
 
 ALLOWED_HOSTS = ["heart.up.railway.app"]
+ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1']
 
 
 # Application definition
